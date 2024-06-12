@@ -20,3 +20,4 @@ yarn-error.log
 .env2
 .env.example
 /ca.pem
+.vercel
