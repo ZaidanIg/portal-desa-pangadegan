@@ -43,7 +43,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>2023</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>2024</span></strong>. Zaidan Ikhsan Gumilar
       </div>
     </div>
   </footer><!-- End Footer -->

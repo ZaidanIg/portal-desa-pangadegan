@@ -38,14 +38,14 @@
                         <span class="hide-menu">Slider</span>
                     </a>
                 </li>
-                <li class="sidebar-item">
+                {{-- <li class="sidebar-item">
                     <a class="sidebar-link" href="/admin/video-profile " aria-expanded="false">
                         <span>
                             <i class="ti ti-brand-youtube"></i>
                         </span>
                         <span class="hide-menu">Video Profile</span>
                     </a>
-                </li>
+                </li> --}}
 
 
                 <li class="nav-small-cap">
