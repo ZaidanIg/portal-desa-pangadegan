@@ -115,4 +115,29 @@
 
         </div>
     </section>
+
+    <section class="counts section-bg">
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Berita Desa</h2>
+            </div>
+
+            <div class="row">
+
+                @foreach ($umkms as $umkm)
+                   
+                @endforeach
+
+
+                <div class="button" style="text-align: center">
+                    <a class="btn btn-primary mx-auto" href="/berita" role="button">Lihat Semua</a>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+    
 @endsection
